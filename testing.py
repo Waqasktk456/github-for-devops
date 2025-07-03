@@ -1,0 +1,1 @@
+print("helo dosto kaisa ho ap sab")
