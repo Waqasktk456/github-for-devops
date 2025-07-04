@@ -13,4 +13,6 @@ git add testing.py
  git commit -m "added file to the git "
  git status
  git restore testing.py
-  history
+history
+git remote add origin .........
+git push origin main
